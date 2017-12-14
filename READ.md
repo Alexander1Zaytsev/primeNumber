@@ -1,1 +1,1 @@
-"# primeNumber"
+This is the algorithms to detect prime numbers
